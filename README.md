@@ -1,4 +1,4 @@
-# 안녕하세요, 이소연입니다. 👋
+# 안녕하세요, 이소연입니다.
 
 PMO 경험으로 요구사항과 현장을 이해하고, 기술로 직접 답하는 백엔드 엔지니어입니다.
 공공 SI 프로젝트에서 2년 5개월간 사업관리(PMO)를 수행하며 프로젝트 운영과 협업을 경험했고,
@@ -29,8 +29,8 @@ PMO 경험으로 요구사항과 현장을 이해하고, 기술로 직접 답하
 ---
 
 ### 🎨 [pickxel](https://github.com/prgrms-aibe-devcourse/AIBE5_Project2_Team5)
-**디자이너 매칭 플랫폼**
-- 피드·컬렉션 도메인 개발
+**프리랜서 디자이너 매칭 플랫폼**
+- 피드 도메인 개발
 - Cursor 기반 Pagination 및 REST API 구현
 
 ---
@@ -46,7 +46,6 @@ PMO 경험으로 요구사항과 현장을 이해하고, 기술로 직접 답하
 ## 🌱 Currently Exploring
 - Java Core
 - Spring Security
-- Redis
 - Embedding & RAG
 - Vector Database
 
