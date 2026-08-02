@@ -24,7 +24,7 @@ PMO 경험으로 요구사항과 현장을 이해하고, 기술로 직접 답하
 ### 🌱 [Rootin](https://github.com/prgrms-aibe-devcourse/AIBE5_FinalProject_Team8_BE)
 **TIL 기록 · 게이미피케이션 플랫폼**
 - 대시보드·게이미피케이션 도메인 설계 및 구현
-- Bucket4j 기반 Rate Limiting 및 전역 예외 처리 구조 구현
+- Bucket4j 기반 Rate Limiting, 전역 예외 처리 등 공통 작업 일부 참여
 
 ---
 
