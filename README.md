@@ -28,14 +28,14 @@ PMO 경험으로 요구사항과 현장을 이해하고, 기술로 직접 답하
 
 ---
 
-### 🎨 [Pickxel](https://github.com/prgrms-aibe-devcourse/AIBE5_Project2_Team5)
+### 🎨 [pickxel](https://github.com/prgrms-aibe-devcourse/AIBE5_Project2_Team5)
 **디자이너 매칭 플랫폼**
 - 피드·컬렉션 도메인 개발
 - Cursor 기반 Pagination 및 REST API 구현
 
 ---
 
-### 📚 [BlackBox](https://github.com/noeyoseel/blackbox)
+### 📚 [blackbox](https://github.com/noeyoseel/blackbox)
 **AI 기반 북마크 아카이빙 플랫폼** *(In Progress)*
 - Chrome Extension을 이용한 X(트위터) 북마크 수집
 - Claude 기반 자동 태깅 및 관심사 분석 기능 개발
